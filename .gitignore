@@ -1,0 +1,10 @@
+# Generated metric snapshots (contain resource-specific data)
+observed_capacity_*.json
+observed_capacity_*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.tmp
